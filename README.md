@@ -1,14 +1,13 @@
 # Broken Link Checker and Dead Link Detector
 
 [![Broken Link Checker](https://img.shields.io/badge/TAVARDT-Broken%20Links-5b3cf5.svg)](https://tools.tavardt.com/ca/broken-link-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Canada-00C853.svg)](https://ag.tavardt.com/ca/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Comprehensive auditing of bilingual internal paths and outbound link health.
 
-Engineered and maintained by the web architecture practice at **[TAVARDT Canada](https://ag.tavardt.com/ca/)**.
+Engineered and maintained by the web architecture practice at **TAVARDT Canada**.
 
----
+***
 
 ## Broken Link Detection Features
 
@@ -18,7 +17,7 @@ Engineered and maintained by the web architecture practice at **[TAVARDT Canada]
 * **Anchor Text Usability**: Ensure clear, accessible text anchors across all page components.
 * **Link Health Index**: Technical assessment from 0 to 100 with categorized defect logging.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python broken_links_scanner.py https://enterprise.ca
 JSON output mode:
 
 ```bash
-python broken_links_scanner.py https://enterprise.ca --json
+python broken_links_scanner.py https://enterprise.ca -json
 ```
 
----
+***
 
 ## Online Web Suite
 
 For real-time cloud-based hyperlink audits:
 
-* **[Official Broken Link Checker](https://tools.tavardt.com/ca/broken-link-checker/)**
-* **[TAVARDT Canada Portal](https://ag.tavardt.com/ca/)**
+* **Official Broken Link Checker**
+* **TAVARDT Canada Portal**
 
----
+***
 
 ## Canadian Technical Services
 
-For guidance conforming to Treasury Board of Canada Web Standards and W3C URI Guidelines, reach out to **[TAVARDT Canada](https://ag.tavardt.com/ca/contact/)**.
+For guidance conforming to Treasury Board of Canada Web Standards and W3C URI Guidelines, reach out to **TAVARDT Canada**.
