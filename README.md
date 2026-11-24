@@ -49,3 +49,7 @@ For real-time cloud-based hyperlink audits:
 ## Canadian Technical Services
 
 For guidance conforming to Treasury Board of Canada Web Standards and W3C URI Guidelines, reach out to **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
