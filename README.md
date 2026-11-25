@@ -6,8 +6,6 @@
 
 Comprehensive auditing of bilingual internal paths and outbound link health.
 
-Engineered and maintained by the web architecture practice at **TAVARDT**.
-
 ***
 
 ## Broken Link Detection Features
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://enterprise.ca -json
 
 ***
 
-## Online Web Suite
-
-For real-time cloud-based hyperlink audits:
-
-* **Official Broken Link Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Canadian Technical Services
 
 For guidance conforming to Treasury Board of Canada Web Standards and W3C URI Guidelines, reach out to **TAVARDT**.
@@ -62,7 +51,7 @@ For guidance conforming to Treasury Board of Canada Web Standards and W3C URI Gu
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
